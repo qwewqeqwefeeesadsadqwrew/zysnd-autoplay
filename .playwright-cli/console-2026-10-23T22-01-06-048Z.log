@@ -1,0 +1,309 @@
+[      47ms] [ERROR] Failed to load resource: the server responded with a status of 404 (File not found) @ http://127.0.0.1:8822/favicon.ico:0
+[     535ms] [TIMEEND] LoadScene db://assets/scenes/main.scene: 36.448974609375 ms @ http://127.0.0.1:8822/cocos-js/cc.9d1bf.js:0
+[     554ms] [LOG] remoteBundleList : [resources, mainBundle, 0_bgm, 0_icon, 0_icon_level_1, 1_common, configBundle, fcly, hszl, khyy, laxh, ljql, lltyc, lpsn, mmtx, nzby, qyzds, rgcd, sblc, sgsn, thhc, wxpd, xhdc, xydh, ydsn, yycx, yymz, zqzs, zsth, zzry, zzsn, a5pdz, aymy, bbgzl, bbhtj, bbjj, bbkz, bbnql, bbsjk, bbxzg, bcgm, bdhg, bdzl, bfld, bgsnj, bgyy, bhqy, bhxq, blddp, blsg, blsx, bmxw, bplxd, bqbpd, brlcx, bsjwh, btky, bxjh, bxmw, bxtly, byhp, bysx, byxsf, byxy, byyxj, byyyz, bzbb, cbz, ccgd, ccqp, cddk, cdfs, cdhz, cdmzf, cf80nd, cfdc, cfdc2, cfdq, cfmx, cgsj, chtc, cjsj, clxy, cmbh, cndj, cpksbz, cqjr, cqlx, crxy, csbz, csjd, cstj, cstk, csxb, ctsz, cxpmj, cyct, cycx, cyd, cydr] @ http://127.0.0.1:8822/assets/main/index.9f3a1.js:833
+[     554ms] [LOG] bundleVers : {0_bgm: 1d4c3, 0_icon: f65f3, 0_icon_level_1: 118e2, 1_common: 158c9, configBundle: acbff} @ http://127.0.0.1:8822/assets/main/index.9f3a1.js:833
+[     555ms] [LOG] bundleName2BundleVersName: Map(815) @ http://127.0.0.1:8822/assets/main/index.9f3a1.js:833
+[     556ms] [LOG] 屏幕分辨率: e @ http://127.0.0.1:8822/assets/main/index.9f3a1.js:843
+[     556ms] [LOG] 适配:宽屏手机 @ http://127.0.0.1:8822/assets/main/index.9f3a1.js:843
+[     761ms] [LOG] LocalSDK-startup @ http://127.0.0.1:8822/assets/main/index.9f3a1.js:561
+[     762ms] [LOG] 存档时间: Thu Jan 01 1970 08:00:00 GMT+0800 (中国标准时间) @ http://127.0.0.1:8822/assets/main/index.9f3a1.js:561
+[     763ms] [LOG] %c上报用户属性:{"system_language":"cn"} color:#0f0 @ http://127.0.0.1:8822/assets/main/index.9f3a1.js:561
+[     763ms] [LOG] 用户类型: A @ http://127.0.0.1:8822/assets/main/index.9f3a1.js:561
+[     766ms] [LOG] 远程配置: https://haicao.szhaicao.com/zysnd/configlive.json @ http://127.0.0.1:8822/assets/main/index.9f3a1.js:479
+[     768ms] [ERROR] Failed to load resource: the server responded with a status of 404 (File not found) @ http://127.0.0.1:8822/remote/resources/import/e4/e4254fb0-5c0a-481f-9902-254ecf2531b2@f9941.19d49.json:0
+[     786ms] [LOG] 远程关卡配置 {dong: Array(5), naodong: Array(0), wenzi: Array(0), pintu: Array(0), zhaobutong: Array(0)} @ http://127.0.0.1:8822/assets/main/index.9f3a1.js:479
+[     787ms] [LOG] 关卡: [yxlg, gzxg, htsm, slhz, zjhy] @ http://127.0.0.1:8822/assets/main/index.9f3a1.js:479
+[     788ms] [LOG] %c上报用户属性:{"login_day":1} color:#0f0 @ http://127.0.0.1:8822/assets/main/index.9f3a1.js:561
+[     789ms] [LOG] 登陆天数: 1 @ http://127.0.0.1:8822/assets/main/index.9f3a1.js:561
+[     789ms] [LOG] 数据上报 load_begin  {} @ http://127.0.0.1:8822/assets/main/index.9f3a1.js:561
+[    1128ms] [LOG] 数据上报 SelectLevel  {} @ http://127.0.0.1:8822/assets/main/index.9f3a1.js:561
+[    1238ms] [ERROR] Failed to load resource: the server responded with a status of 404 (File not found) @ http://127.0.0.1:8822/remote/0_icon/import/c6/c699513b-e534-418c-8edd-7354a0f66049@f9941.87499.json:0
+[    1238ms] [ERROR] Failed to load resource: the server responded with a status of 404 (File not found) @ http://127.0.0.1:8822/remote/0_icon/import/a5/a5fbe8c4-aa01-47dd-a379-05d19a58375a@f9941.525fb.json:0
+[    1239ms] [ERROR] Failed to load resource: the server responded with a status of 404 (File not found) @ http://127.0.0.1:8822/remote/0_icon/import/b5/b532191d-782d-464c-b63f-6f6941e3e37c@f9941.c5d2d.json:0
+[    1284ms] [ERROR] Failed to load resource: the server responded with a status of 404 (File not found) @ http://127.0.0.1:8822/remote/0_icon/import/3f/3fba2147-475c-4131-91ec-bffd20db58dd@f9941.6b3b4.json:0
+[    1285ms] [ERROR] Failed to load resource: the server responded with a status of 404 (File not found) @ http://127.0.0.1:8822/remote/0_icon/import/38/38c075f3-8195-4aaf-b958-4e283d4bc598@f9941.89d70.json:0
+[    1603ms] [ERROR] Failed to load resource: the server responded with a status of 404 (File not found) @ http://127.0.0.1:8822/favicon.ico:0
+[    2113ms] [LOG] 加载关卡 {Id: 292, code: yxlg, levelName: 玉匣流光, levelDesc: 帮助每件首饰回到自己的专属位置, passDesc: 玉钗金簪，皆是时光留下的秘密} @ http://127.0.0.1:8822/assets/main/index.9f3a1.js:561
+[    2113ms] [LOG] 数据上报 GameClick  {LevelsNumber3: 292, LevelsCode: yxlg, LevelsName: 玉匣流光, LevelsType: dong, RewardAdResult: true} @ http://127.0.0.1:8822/assets/main/index.9f3a1.js:561
+[    2777ms] [ERROR] Failed to load resource: the server responded with a status of 404 (File not found) @ http://127.0.0.1:8822/remote/resources/import/e4/e4254fb0-5c0a-481f-9902-254ecf2531b2@f9941.19d49.json:0
+[    2791ms] [LOG] [第1次] 尝试获取本地bundle: yxylg @ http://127.0.0.1:8822/assets/main/index.9f3a1.js:459
+[    2791ms] [LOG] [第1次] 开始加载预设: yxylg @ http://127.0.0.1:8822/assets/main/index.9f3a1.js:459
+[    3130ms] [ERROR] Failed to load resource: the server responded with a status of 404 (File not found) @ http://127.0.0.1:8822/remote/mainBundle/import/16/16df592b-ea67-4418-84e3-f289520c9491@f9941.f24a1.json:0
+[    3175ms] [LOG] 关卡加载耗时: 1.09 @ http://127.0.0.1:8822/assets/main/index.9f3a1.js:459
+[    3176ms] [LOG] 数据上报 GameEnter3  {LevelsNumber3: 292, LevelsCode: yxlg, LevelsTime: 1, NetworkType: , LevelsName: 玉匣流光} @ http://127.0.0.1:8822/assets/main/index.9f3a1.js:561
+[    3254ms] [ERROR] Failed to load resource: the server responded with a status of 404 (File not found) @ http://127.0.0.1:8822/remote/0_icon/import/c6/c699513b-e534-418c-8edd-7354a0f66049@f9941.87499.json:0
+[    3255ms] [ERROR] Failed to load resource: the server responded with a status of 404 (File not found) @ http://127.0.0.1:8822/remote/0_icon/import/a5/a5fbe8c4-aa01-47dd-a379-05d19a58375a@f9941.525fb.json:0
+[    3300ms] [ERROR] Failed to load resource: the server responded with a status of 404 (File not found) @ http://127.0.0.1:8822/remote/0_icon/import/b5/b532191d-782d-464c-b63f-6f6941e3e37c@f9941.c5d2d.json:0
+[    3300ms] [ERROR] Failed to load resource: the server responded with a status of 404 (File not found) @ http://127.0.0.1:8822/remote/0_icon/import/3f/3fba2147-475c-4131-91ec-bffd20db58dd@f9941.6b3b4.json:0
+[    3302ms] [ERROR] Failed to load resource: the server responded with a status of 404 (File not found) @ http://127.0.0.1:8822/remote/0_icon/import/38/38c075f3-8195-4aaf-b958-4e283d4bc598@f9941.89d70.json:0
+[    3426ms] [LOG] 数据上报 TUTORIAL_START  {} @ http://127.0.0.1:8822/assets/main/index.9f3a1.js:561
+[    3426ms] [LOG] processFreeGameGuide @ http://127.0.0.1:8822/assets/main/index.9f3a1.js:539
+[    3427ms] [LOG] 图片提示(翻页) @ http://127.0.0.1:8822/assets/main/index.9f3a1.js:539
+[    3427ms] [LOG] 资源缓存: 439 游戏时长: 3秒 @ http://127.0.0.1:8822/assets/main/index.9f3a1.js:561
+[    4781ms] [ERROR] Failed to load resource: the server responded with a status of 404 (File not found) @ http://127.0.0.1:8822/remote/resources/import/e4/e4254fb0-5c0a-481f-9902-254ecf2531b2@f9941.19d49.json:0
+[    5137ms] [ERROR] Failed to load resource: the server responded with a status of 404 (File not found) @ http://127.0.0.1:8822/remote/mainBundle/import/16/16df592b-ea67-4418-84e3-f289520c9491@f9941.f24a1.json:0
+[    5259ms] [ERROR] Failed to load resource: the server responded with a status of 404 (File not found) @ http://127.0.0.1:8822/remote/0_icon/import/c6/c699513b-e534-418c-8edd-7354a0f66049@f9941.87499.json:0
+[    5260ms] [ERROR] Failed to load resource: the server responded with a status of 404 (File not found) @ http://127.0.0.1:8822/remote/0_icon/import/a5/a5fbe8c4-aa01-47dd-a379-05d19a58375a@f9941.525fb.json:0
+[    5307ms] [ERROR] Failed to load resource: the server responded with a status of 404 (File not found) @ http://127.0.0.1:8822/remote/0_icon/import/b5/b532191d-782d-464c-b63f-6f6941e3e37c@f9941.c5d2d.json:0
+[    5309ms] [ERROR] Failed to load resource: the server responded with a status of 404 (File not found) @ http://127.0.0.1:8822/remote/0_icon/import/3f/3fba2147-475c-4131-91ec-bffd20db58dd@f9941.6b3b4.json:0
+[    5309ms] [ERROR] Failed to load resource: the server responded with a status of 404 (File not found) @ http://127.0.0.1:8822/remote/0_icon/import/38/38c075f3-8195-4aaf-b958-4e283d4bc598@f9941.89d70.json:0
+[    6791ms] [ERROR] Failed to load resource: the server responded with a status of 404 (File not found) @ http://127.0.0.1:8822/remote/resources/import/e4/e4254fb0-5c0a-481f-9902-254ecf2531b2@f9941.19d49.json:0
+[    6792ms] [ERROR] download failed: remote/resources/import/e4/e4254fb0-5c0a-481f-9902-254ecf2531b2@f9941.19d49.json, status: 404(no response) Error: download failed: remote/resources/import/e4/e4254fb0-5c0a-481f-9902-254ecf2531b2@f9941.19d49.json, status: 404(no response)
+    at XS.r.onload (http://127.0.0.1:8822/cocos-js/cc.9d1bf.js:1:445934) @ http://127.0.0.1:8822/cocos-js/cc.9d1bf.js:0
+[    6803ms] [ERROR] 资源加载失败: Error: download failed: remote/resources/import/e4/e4254fb0-5c0a-481f-9902-254ecf2531b2@f9941.19d49.json, status: 404(no response)
+    at XS.r.onload (http://127.0.0.1:8822/cocos-js/cc.9d1bf.js:1:445934) @ http://127.0.0.1:8822/assets/main/index.9f3a1.js:383
+[    6803ms] [ERROR] 图片加载失败: icon/logo/logo_18/spriteFrame resources @ http://127.0.0.1:8822/assets/main/index.9f3a1.js:913
+[    6819ms] [ERROR] 资源加载失败: Error: Bundle resources doesn't contain icon/logo/logo_18/spriteFrame/spriteFrame
+    at u (http://127.0.0.1:8822/cocos-js/cc.9d1bf.js:1:465996)
+    at n (http://127.0.0.1:8822/cocos-js/cc.9d1bf.js:1:466846)
+    at jw (http://127.0.0.1:8822/cocos-js/cc.9d1bf.js:1:466990)
+    at e.sync (http://127.0.0.1:8822/cocos-js/cc.9d1bf.js:1:303889)
+    at Uw (http://127.0.0.1:8822/cocos-js/cc.9d1bf.js:1:463780)
+    at e._flow (http://127.0.0.1:8822/cocos-js/cc.9d1bf.js:1:304126)
+    at e.async (http://127.0.0.1:8822/cocos-js/cc.9d1bf.js:1:304063)
+    at e.loadAny (http://127.0.0.1:8822/cocos-js/cc.9d1bf.js:1:470233)
+    at e.load (http://127.0.0.1:8822/cocos-js/cc.9d1bf.js:1:443256)
+    at http://127.0.0.1:8822/assets/main/index.9f3a1.js:384:1166 @ http://127.0.0.1:8822/assets/main/index.9f3a1.js:383
+[    6819ms] [ERROR] 图片加载失败: icon/logo/logo_18/spriteFrame/spriteFrame resources @ http://127.0.0.1:8822/assets/main/index.9f3a1.js:913
+[    6836ms] [ERROR] 资源加载失败: Error: Bundle resources doesn't contain icon/logo/logo_18/spriteFrame/spriteFrame/spriteFrame
+    at u (http://127.0.0.1:8822/cocos-js/cc.9d1bf.js:1:465996)
+    at n (http://127.0.0.1:8822/cocos-js/cc.9d1bf.js:1:466846)
+    at jw (http://127.0.0.1:8822/cocos-js/cc.9d1bf.js:1:466990)
+    at e.sync (http://127.0.0.1:8822/cocos-js/cc.9d1bf.js:1:303889)
+    at Uw (http://127.0.0.1:8822/cocos-js/cc.9d1bf.js:1:463780)
+    at e._flow (http://127.0.0.1:8822/cocos-js/cc.9d1bf.js:1:304126)
+    at e.async (http://127.0.0.1:8822/cocos-js/cc.9d1bf.js:1:304063)
+    at e.loadAny (http://127.0.0.1:8822/cocos-js/cc.9d1bf.js:1:470233)
+    at e.load (http://127.0.0.1:8822/cocos-js/cc.9d1bf.js:1:443256)
+    at http://127.0.0.1:8822/assets/main/index.9f3a1.js:384:1166 @ http://127.0.0.1:8822/assets/main/index.9f3a1.js:383
+[    6836ms] [ERROR] 图片加载失败: icon/logo/logo_18/spriteFrame/spriteFrame/spriteFrame resources @ http://127.0.0.1:8822/assets/main/index.9f3a1.js:913
+[    6853ms] [ERROR] 资源加载失败: Error: Bundle resources doesn't contain icon/logo/logo_18/spriteFrame/spriteFrame/spriteFrame/spriteFrame
+    at u (http://127.0.0.1:8822/cocos-js/cc.9d1bf.js:1:465996)
+    at n (http://127.0.0.1:8822/cocos-js/cc.9d1bf.js:1:466846)
+    at jw (http://127.0.0.1:8822/cocos-js/cc.9d1bf.js:1:466990)
+    at e.sync (http://127.0.0.1:8822/cocos-js/cc.9d1bf.js:1:303889)
+    at Uw (http://127.0.0.1:8822/cocos-js/cc.9d1bf.js:1:463780)
+    at e._flow (http://127.0.0.1:8822/cocos-js/cc.9d1bf.js:1:304126)
+    at e.async (http://127.0.0.1:8822/cocos-js/cc.9d1bf.js:1:304063)
+    at e.loadAny (http://127.0.0.1:8822/cocos-js/cc.9d1bf.js:1:470233)
+    at e.load (http://127.0.0.1:8822/cocos-js/cc.9d1bf.js:1:443256)
+    at http://127.0.0.1:8822/assets/main/index.9f3a1.js:384:1166 @ http://127.0.0.1:8822/assets/main/index.9f3a1.js:383
+[    6853ms] [ERROR] 图片加载失败: icon/logo/logo_18/spriteFrame/spriteFrame/spriteFrame/spriteFrame resources @ http://127.0.0.1:8822/assets/main/index.9f3a1.js:913
+[    7156ms] [ERROR] Failed to load resource: the server responded with a status of 404 (File not found) @ http://127.0.0.1:8822/remote/mainBundle/import/16/16df592b-ea67-4418-84e3-f289520c9491@f9941.f24a1.json:0
+[    7263ms] [ERROR] Failed to load resource: the server responded with a status of 404 (File not found) @ http://127.0.0.1:8822/remote/0_icon/import/c6/c699513b-e534-418c-8edd-7354a0f66049@f9941.87499.json:0
+[    7263ms] [ERROR] download failed: remote/0_icon/import/c6/c699513b-e534-418c-8edd-7354a0f66049@f9941.87499.json, status: 404(no response) Error: download failed: remote/0_icon/import/c6/c699513b-e534-418c-8edd-7354a0f66049@f9941.87499.json, status: 404(no response)
+    at XS.r.onload (http://127.0.0.1:8822/cocos-js/cc.9d1bf.js:1:445934) @ http://127.0.0.1:8822/cocos-js/cc.9d1bf.js:0
+[    7264ms] [ERROR] Failed to load resource: the server responded with a status of 404 (File not found) @ http://127.0.0.1:8822/remote/0_icon/import/a5/a5fbe8c4-aa01-47dd-a379-05d19a58375a@f9941.525fb.json:0
+[    7264ms] [ERROR] download failed: remote/0_icon/import/a5/a5fbe8c4-aa01-47dd-a379-05d19a58375a@f9941.525fb.json, status: 404(no response) Error: download failed: remote/0_icon/import/a5/a5fbe8c4-aa01-47dd-a379-05d19a58375a@f9941.525fb.json, status: 404(no response)
+    at XS.r.onload (http://127.0.0.1:8822/cocos-js/cc.9d1bf.js:1:445934) @ http://127.0.0.1:8822/cocos-js/cc.9d1bf.js:0
+[    7269ms] [ERROR] 资源加载失败: Error: download failed: remote/0_icon/import/c6/c699513b-e534-418c-8edd-7354a0f66049@f9941.87499.json, status: 404(no response)
+    at XS.r.onload (http://127.0.0.1:8822/cocos-js/cc.9d1bf.js:1:445934) @ http://127.0.0.1:8822/assets/main/index.9f3a1.js:383
+[    7269ms] [ERROR] 图片加载失败: level/yxylg_start/spriteFrame 0_icon @ http://127.0.0.1:8822/assets/main/index.9f3a1.js:913
+[    7270ms] [ERROR] 资源加载失败: Error: download failed: remote/0_icon/import/a5/a5fbe8c4-aa01-47dd-a379-05d19a58375a@f9941.525fb.json, status: 404(no response)
+    at XS.r.onload (http://127.0.0.1:8822/cocos-js/cc.9d1bf.js:1:445934) @ http://127.0.0.1:8822/assets/main/index.9f3a1.js:383
+[    7270ms] [ERROR] 图片加载失败: level/gzxg_start/spriteFrame 0_icon @ http://127.0.0.1:8822/assets/main/index.9f3a1.js:913
+[    7286ms] [ERROR] 资源加载失败: Error: Bundle 0_icon doesn't contain level/yxylg_start/spriteFrame/spriteFrame
+    at u (http://127.0.0.1:8822/cocos-js/cc.9d1bf.js:1:465996)
+    at n (http://127.0.0.1:8822/cocos-js/cc.9d1bf.js:1:466846)
+    at jw (http://127.0.0.1:8822/cocos-js/cc.9d1bf.js:1:466990)
+    at e.sync (http://127.0.0.1:8822/cocos-js/cc.9d1bf.js:1:303889)
+    at Uw (http://127.0.0.1:8822/cocos-js/cc.9d1bf.js:1:463780)
+    at e._flow (http://127.0.0.1:8822/cocos-js/cc.9d1bf.js:1:304126)
+    at e.async (http://127.0.0.1:8822/cocos-js/cc.9d1bf.js:1:304063)
+    at e.loadAny (http://127.0.0.1:8822/cocos-js/cc.9d1bf.js:1:470233)
+    at e.load (http://127.0.0.1:8822/cocos-js/cc.9d1bf.js:1:443256)
+    at http://127.0.0.1:8822/assets/main/index.9f3a1.js:384:1166 @ http://127.0.0.1:8822/assets/main/index.9f3a1.js:383
+[    7286ms] [ERROR] 图片加载失败: level/yxylg_start/spriteFrame/spriteFrame 0_icon @ http://127.0.0.1:8822/assets/main/index.9f3a1.js:913
+[    7286ms] [ERROR] 资源加载失败: Error: Bundle 0_icon doesn't contain level/gzxg_start/spriteFrame/spriteFrame
+    at u (http://127.0.0.1:8822/cocos-js/cc.9d1bf.js:1:465996)
+    at n (http://127.0.0.1:8822/cocos-js/cc.9d1bf.js:1:466846)
+    at jw (http://127.0.0.1:8822/cocos-js/cc.9d1bf.js:1:466990)
+    at e.sync (http://127.0.0.1:8822/cocos-js/cc.9d1bf.js:1:303889)
+    at Uw (http://127.0.0.1:8822/cocos-js/cc.9d1bf.js:1:463780)
+    at e._flow (http://127.0.0.1:8822/cocos-js/cc.9d1bf.js:1:304126)
+    at e.async (http://127.0.0.1:8822/cocos-js/cc.9d1bf.js:1:304063)
+    at e.loadAny (http://127.0.0.1:8822/cocos-js/cc.9d1bf.js:1:470233)
+    at e.load (http://127.0.0.1:8822/cocos-js/cc.9d1bf.js:1:443256)
+    at http://127.0.0.1:8822/assets/main/index.9f3a1.js:384:1166 @ http://127.0.0.1:8822/assets/main/index.9f3a1.js:383
+[    7286ms] [ERROR] 图片加载失败: level/gzxg_start/spriteFrame/spriteFrame 0_icon @ http://127.0.0.1:8822/assets/main/index.9f3a1.js:913
+[    7303ms] [ERROR] 资源加载失败: Error: Bundle 0_icon doesn't contain level/yxylg_start/spriteFrame/spriteFrame/spriteFrame
+    at u (http://127.0.0.1:8822/cocos-js/cc.9d1bf.js:1:465996)
+    at n (http://127.0.0.1:8822/cocos-js/cc.9d1bf.js:1:466846)
+    at jw (http://127.0.0.1:8822/cocos-js/cc.9d1bf.js:1:466990)
+    at e.sync (http://127.0.0.1:8822/cocos-js/cc.9d1bf.js:1:303889)
+    at Uw (http://127.0.0.1:8822/cocos-js/cc.9d1bf.js:1:463780)
+    at e._flow (http://127.0.0.1:8822/cocos-js/cc.9d1bf.js:1:304126)
+    at e.async (http://127.0.0.1:8822/cocos-js/cc.9d1bf.js:1:304063)
+    at e.loadAny (http://127.0.0.1:8822/cocos-js/cc.9d1bf.js:1:470233)
+    at e.load (http://127.0.0.1:8822/cocos-js/cc.9d1bf.js:1:443256)
+    at http://127.0.0.1:8822/assets/main/index.9f3a1.js:384:1166 @ http://127.0.0.1:8822/assets/main/index.9f3a1.js:383
+[    7303ms] [ERROR] 图片加载失败: level/yxylg_start/spriteFrame/spriteFrame/spriteFrame 0_icon @ http://127.0.0.1:8822/assets/main/index.9f3a1.js:913
+[    7303ms] [ERROR] 资源加载失败: Error: Bundle 0_icon doesn't contain level/gzxg_start/spriteFrame/spriteFrame/spriteFrame
+    at u (http://127.0.0.1:8822/cocos-js/cc.9d1bf.js:1:465996)
+    at n (http://127.0.0.1:8822/cocos-js/cc.9d1bf.js:1:466846)
+    at jw (http://127.0.0.1:8822/cocos-js/cc.9d1bf.js:1:466990)
+    at e.sync (http://127.0.0.1:8822/cocos-js/cc.9d1bf.js:1:303889)
+    at Uw (http://127.0.0.1:8822/cocos-js/cc.9d1bf.js:1:463780)
+    at e._flow (http://127.0.0.1:8822/cocos-js/cc.9d1bf.js:1:304126)
+    at e.async (http://127.0.0.1:8822/cocos-js/cc.9d1bf.js:1:304063)
+    at e.loadAny (http://127.0.0.1:8822/cocos-js/cc.9d1bf.js:1:470233)
+    at e.load (http://127.0.0.1:8822/cocos-js/cc.9d1bf.js:1:443256)
+    at http://127.0.0.1:8822/assets/main/index.9f3a1.js:384:1166 @ http://127.0.0.1:8822/assets/main/index.9f3a1.js:383
+[    7303ms] [ERROR] 图片加载失败: level/gzxg_start/spriteFrame/spriteFrame/spriteFrame 0_icon @ http://127.0.0.1:8822/assets/main/index.9f3a1.js:913
+[    7319ms] [ERROR] 资源加载失败: Error: Bundle 0_icon doesn't contain level/yxylg_start/spriteFrame/spriteFrame/spriteFrame/spriteFrame
+    at u (http://127.0.0.1:8822/cocos-js/cc.9d1bf.js:1:465996)
+    at n (http://127.0.0.1:8822/cocos-js/cc.9d1bf.js:1:466846)
+    at jw (http://127.0.0.1:8822/cocos-js/cc.9d1bf.js:1:466990)
+    at e.sync (http://127.0.0.1:8822/cocos-js/cc.9d1bf.js:1:303889)
+    at Uw (http://127.0.0.1:8822/cocos-js/cc.9d1bf.js:1:463780)
+    at e._flow (http://127.0.0.1:8822/cocos-js/cc.9d1bf.js:1:304126)
+    at e.async (http://127.0.0.1:8822/cocos-js/cc.9d1bf.js:1:304063)
+    at e.loadAny (http://127.0.0.1:8822/cocos-js/cc.9d1bf.js:1:470233)
+    at e.load (http://127.0.0.1:8822/cocos-js/cc.9d1bf.js:1:443256)
+    at http://127.0.0.1:8822/assets/main/index.9f3a1.js:384:1166 @ http://127.0.0.1:8822/assets/main/index.9f3a1.js:383
+[    7319ms] [ERROR] 图片加载失败: level/yxylg_start/spriteFrame/spriteFrame/spriteFrame/spriteFrame 0_icon @ http://127.0.0.1:8822/assets/main/index.9f3a1.js:913
+[    7319ms] [ERROR] 资源加载失败: Error: Bundle 0_icon doesn't contain level/gzxg_start/spriteFrame/spriteFrame/spriteFrame/spriteFrame
+    at u (http://127.0.0.1:8822/cocos-js/cc.9d1bf.js:1:465996)
+    at n (http://127.0.0.1:8822/cocos-js/cc.9d1bf.js:1:466846)
+    at jw (http://127.0.0.1:8822/cocos-js/cc.9d1bf.js:1:466990)
+    at e.sync (http://127.0.0.1:8822/cocos-js/cc.9d1bf.js:1:303889)
+    at Uw (http://127.0.0.1:8822/cocos-js/cc.9d1bf.js:1:463780)
+    at e._flow (http://127.0.0.1:8822/cocos-js/cc.9d1bf.js:1:304126)
+    at e.async (http://127.0.0.1:8822/cocos-js/cc.9d1bf.js:1:304063)
+    at e.loadAny (http://127.0.0.1:8822/cocos-js/cc.9d1bf.js:1:470233)
+    at e.load (http://127.0.0.1:8822/cocos-js/cc.9d1bf.js:1:443256)
+    at http://127.0.0.1:8822/assets/main/index.9f3a1.js:384:1166 @ http://127.0.0.1:8822/assets/main/index.9f3a1.js:383
+[    7320ms] [ERROR] 图片加载失败: level/gzxg_start/spriteFrame/spriteFrame/spriteFrame/spriteFrame 0_icon @ http://127.0.0.1:8822/assets/main/index.9f3a1.js:913
+[    7324ms] [ERROR] Failed to load resource: the server responded with a status of 404 (File not found) @ http://127.0.0.1:8822/remote/0_icon/import/b5/b532191d-782d-464c-b63f-6f6941e3e37c@f9941.c5d2d.json:0
+[    7325ms] [ERROR] download failed: remote/0_icon/import/b5/b532191d-782d-464c-b63f-6f6941e3e37c@f9941.c5d2d.json, status: 404(no response) Error: download failed: remote/0_icon/import/b5/b532191d-782d-464c-b63f-6f6941e3e37c@f9941.c5d2d.json, status: 404(no response)
+    at XS.r.onload (http://127.0.0.1:8822/cocos-js/cc.9d1bf.js:1:445934) @ http://127.0.0.1:8822/cocos-js/cc.9d1bf.js:0
+[    7325ms] [ERROR] Failed to load resource: the server responded with a status of 404 (File not found) @ http://127.0.0.1:8822/remote/0_icon/import/3f/3fba2147-475c-4131-91ec-bffd20db58dd@f9941.6b3b4.json:0
+[    7325ms] [ERROR] download failed: remote/0_icon/import/3f/3fba2147-475c-4131-91ec-bffd20db58dd@f9941.6b3b4.json, status: 404(no response) Error: download failed: remote/0_icon/import/3f/3fba2147-475c-4131-91ec-bffd20db58dd@f9941.6b3b4.json, status: 404(no response)
+    at XS.r.onload (http://127.0.0.1:8822/cocos-js/cc.9d1bf.js:1:445934) @ http://127.0.0.1:8822/cocos-js/cc.9d1bf.js:0
+[    7325ms] [ERROR] Failed to load resource: the server responded with a status of 404 (File not found) @ http://127.0.0.1:8822/remote/0_icon/import/38/38c075f3-8195-4aaf-b958-4e283d4bc598@f9941.89d70.json:0
+[    7326ms] [ERROR] download failed: remote/0_icon/import/38/38c075f3-8195-4aaf-b958-4e283d4bc598@f9941.89d70.json, status: 404(no response) Error: download failed: remote/0_icon/import/38/38c075f3-8195-4aaf-b958-4e283d4bc598@f9941.89d70.json, status: 404(no response)
+    at XS.r.onload (http://127.0.0.1:8822/cocos-js/cc.9d1bf.js:1:445934) @ http://127.0.0.1:8822/cocos-js/cc.9d1bf.js:0
+[    7336ms] [ERROR] 资源加载失败: Error: download failed: remote/0_icon/import/b5/b532191d-782d-464c-b63f-6f6941e3e37c@f9941.c5d2d.json, status: 404(no response)
+    at XS.r.onload (http://127.0.0.1:8822/cocos-js/cc.9d1bf.js:1:445934) @ http://127.0.0.1:8822/assets/main/index.9f3a1.js:383
+[    7336ms] [ERROR] 图片加载失败: level/htsm_start/spriteFrame 0_icon @ http://127.0.0.1:8822/assets/main/index.9f3a1.js:913
+[    7336ms] [ERROR] 资源加载失败: Error: download failed: remote/0_icon/import/3f/3fba2147-475c-4131-91ec-bffd20db58dd@f9941.6b3b4.json, status: 404(no response)
+    at XS.r.onload (http://127.0.0.1:8822/cocos-js/cc.9d1bf.js:1:445934) @ http://127.0.0.1:8822/assets/main/index.9f3a1.js:383
+[    7336ms] [ERROR] 图片加载失败: level/slhz_end/spriteFrame 0_icon @ http://127.0.0.1:8822/assets/main/index.9f3a1.js:913
+[    7336ms] [ERROR] 资源加载失败: Error: download failed: remote/0_icon/import/38/38c075f3-8195-4aaf-b958-4e283d4bc598@f9941.89d70.json, status: 404(no response)
+    at XS.r.onload (http://127.0.0.1:8822/cocos-js/cc.9d1bf.js:1:445934) @ http://127.0.0.1:8822/assets/main/index.9f3a1.js:383
+[    7336ms] [ERROR] 图片加载失败: level/zjhy_start/spriteFrame 0_icon @ http://127.0.0.1:8822/assets/main/index.9f3a1.js:913
+[    7353ms] [ERROR] 资源加载失败: Error: Bundle 0_icon doesn't contain level/htsm_start/spriteFrame/spriteFrame
+    at u (http://127.0.0.1:8822/cocos-js/cc.9d1bf.js:1:465996)
+    at n (http://127.0.0.1:8822/cocos-js/cc.9d1bf.js:1:466846)
+    at jw (http://127.0.0.1:8822/cocos-js/cc.9d1bf.js:1:466990)
+    at e.sync (http://127.0.0.1:8822/cocos-js/cc.9d1bf.js:1:303889)
+    at Uw (http://127.0.0.1:8822/cocos-js/cc.9d1bf.js:1:463780)
+    at e._flow (http://127.0.0.1:8822/cocos-js/cc.9d1bf.js:1:304126)
+    at e.async (http://127.0.0.1:8822/cocos-js/cc.9d1bf.js:1:304063)
+    at e.loadAny (http://127.0.0.1:8822/cocos-js/cc.9d1bf.js:1:470233)
+    at e.load (http://127.0.0.1:8822/cocos-js/cc.9d1bf.js:1:443256)
+    at http://127.0.0.1:8822/assets/main/index.9f3a1.js:384:1166 @ http://127.0.0.1:8822/assets/main/index.9f3a1.js:383
+[    7353ms] [ERROR] 图片加载失败: level/htsm_start/spriteFrame/spriteFrame 0_icon @ http://127.0.0.1:8822/assets/main/index.9f3a1.js:913
+[    7353ms] [ERROR] 资源加载失败: Error: Bundle 0_icon doesn't contain level/slhz_end/spriteFrame/spriteFrame
+    at u (http://127.0.0.1:8822/cocos-js/cc.9d1bf.js:1:465996)
+    at n (http://127.0.0.1:8822/cocos-js/cc.9d1bf.js:1:466846)
+    at jw (http://127.0.0.1:8822/cocos-js/cc.9d1bf.js:1:466990)
+    at e.sync (http://127.0.0.1:8822/cocos-js/cc.9d1bf.js:1:303889)
+    at Uw (http://127.0.0.1:8822/cocos-js/cc.9d1bf.js:1:463780)
+    at e._flow (http://127.0.0.1:8822/cocos-js/cc.9d1bf.js:1:304126)
+    at e.async (http://127.0.0.1:8822/cocos-js/cc.9d1bf.js:1:304063)
+    at e.loadAny (http://127.0.0.1:8822/cocos-js/cc.9d1bf.js:1:470233)
+    at e.load (http://127.0.0.1:8822/cocos-js/cc.9d1bf.js:1:443256)
+    at http://127.0.0.1:8822/assets/main/index.9f3a1.js:384:1166 @ http://127.0.0.1:8822/assets/main/index.9f3a1.js:383
+[    7353ms] [ERROR] 图片加载失败: level/slhz_end/spriteFrame/spriteFrame 0_icon @ http://127.0.0.1:8822/assets/main/index.9f3a1.js:913
+[    7353ms] [ERROR] 资源加载失败: Error: Bundle 0_icon doesn't contain level/zjhy_start/spriteFrame/spriteFrame
+    at u (http://127.0.0.1:8822/cocos-js/cc.9d1bf.js:1:465996)
+    at n (http://127.0.0.1:8822/cocos-js/cc.9d1bf.js:1:466846)
+    at jw (http://127.0.0.1:8822/cocos-js/cc.9d1bf.js:1:466990)
+    at e.sync (http://127.0.0.1:8822/cocos-js/cc.9d1bf.js:1:303889)
+    at Uw (http://127.0.0.1:8822/cocos-js/cc.9d1bf.js:1:463780)
+    at e._flow (http://127.0.0.1:8822/cocos-js/cc.9d1bf.js:1:304126)
+    at e.async (http://127.0.0.1:8822/cocos-js/cc.9d1bf.js:1:304063)
+    at e.loadAny (http://127.0.0.1:8822/cocos-js/cc.9d1bf.js:1:470233)
+    at e.load (http://127.0.0.1:8822/cocos-js/cc.9d1bf.js:1:443256)
+    at http://127.0.0.1:8822/assets/main/index.9f3a1.js:384:1166 @ http://127.0.0.1:8822/assets/main/index.9f3a1.js:383
+[    7353ms] [ERROR] 图片加载失败: level/zjhy_start/spriteFrame/spriteFrame 0_icon @ http://127.0.0.1:8822/assets/main/index.9f3a1.js:913
+[    7372ms] [ERROR] 资源加载失败: Error: Bundle 0_icon doesn't contain level/htsm_start/spriteFrame/spriteFrame/spriteFrame
+    at u (http://127.0.0.1:8822/cocos-js/cc.9d1bf.js:1:465996)
+    at n (http://127.0.0.1:8822/cocos-js/cc.9d1bf.js:1:466846)
+    at jw (http://127.0.0.1:8822/cocos-js/cc.9d1bf.js:1:466990)
+    at e.sync (http://127.0.0.1:8822/cocos-js/cc.9d1bf.js:1:303889)
+    at Uw (http://127.0.0.1:8822/cocos-js/cc.9d1bf.js:1:463780)
+    at e._flow (http://127.0.0.1:8822/cocos-js/cc.9d1bf.js:1:304126)
+    at e.async (http://127.0.0.1:8822/cocos-js/cc.9d1bf.js:1:304063)
+    at e.loadAny (http://127.0.0.1:8822/cocos-js/cc.9d1bf.js:1:470233)
+    at e.load (http://127.0.0.1:8822/cocos-js/cc.9d1bf.js:1:443256)
+    at http://127.0.0.1:8822/assets/main/index.9f3a1.js:384:1166 @ http://127.0.0.1:8822/assets/main/index.9f3a1.js:383
+[    7372ms] [ERROR] 图片加载失败: level/htsm_start/spriteFrame/spriteFrame/spriteFrame 0_icon @ http://127.0.0.1:8822/assets/main/index.9f3a1.js:913
+[    7373ms] [ERROR] 资源加载失败: Error: Bundle 0_icon doesn't contain level/slhz_end/spriteFrame/spriteFrame/spriteFrame
+    at u (http://127.0.0.1:8822/cocos-js/cc.9d1bf.js:1:465996)
+    at n (http://127.0.0.1:8822/cocos-js/cc.9d1bf.js:1:466846)
+    at jw (http://127.0.0.1:8822/cocos-js/cc.9d1bf.js:1:466990)
+    at e.sync (http://127.0.0.1:8822/cocos-js/cc.9d1bf.js:1:303889)
+    at Uw (http://127.0.0.1:8822/cocos-js/cc.9d1bf.js:1:463780)
+    at e._flow (http://127.0.0.1:8822/cocos-js/cc.9d1bf.js:1:304126)
+    at e.async (http://127.0.0.1:8822/cocos-js/cc.9d1bf.js:1:304063)
+    at e.loadAny (http://127.0.0.1:8822/cocos-js/cc.9d1bf.js:1:470233)
+    at e.load (http://127.0.0.1:8822/cocos-js/cc.9d1bf.js:1:443256)
+    at http://127.0.0.1:8822/assets/main/index.9f3a1.js:384:1166 @ http://127.0.0.1:8822/assets/main/index.9f3a1.js:383
+[    7373ms] [ERROR] 图片加载失败: level/slhz_end/spriteFrame/spriteFrame/spriteFrame 0_icon @ http://127.0.0.1:8822/assets/main/index.9f3a1.js:913
+[    7374ms] [ERROR] 资源加载失败: Error: Bundle 0_icon doesn't contain level/zjhy_start/spriteFrame/spriteFrame/spriteFrame
+    at u (http://127.0.0.1:8822/cocos-js/cc.9d1bf.js:1:465996)
+    at n (http://127.0.0.1:8822/cocos-js/cc.9d1bf.js:1:466846)
+    at jw (http://127.0.0.1:8822/cocos-js/cc.9d1bf.js:1:466990)
+    at e.sync (http://127.0.0.1:8822/cocos-js/cc.9d1bf.js:1:303889)
+    at Uw (http://127.0.0.1:8822/cocos-js/cc.9d1bf.js:1:463780)
+    at e._flow (http://127.0.0.1:8822/cocos-js/cc.9d1bf.js:1:304126)
+    at e.async (http://127.0.0.1:8822/cocos-js/cc.9d1bf.js:1:304063)
+    at e.loadAny (http://127.0.0.1:8822/cocos-js/cc.9d1bf.js:1:470233)
+    at e.load (http://127.0.0.1:8822/cocos-js/cc.9d1bf.js:1:443256)
+    at http://127.0.0.1:8822/assets/main/index.9f3a1.js:384:1166 @ http://127.0.0.1:8822/assets/main/index.9f3a1.js:383
+[    7374ms] [ERROR] 图片加载失败: level/zjhy_start/spriteFrame/spriteFrame/spriteFrame 0_icon @ http://127.0.0.1:8822/assets/main/index.9f3a1.js:913
+[    7388ms] [ERROR] 资源加载失败: Error: Bundle 0_icon doesn't contain level/htsm_start/spriteFrame/spriteFrame/spriteFrame/spriteFrame
+    at u (http://127.0.0.1:8822/cocos-js/cc.9d1bf.js:1:465996)
+    at n (http://127.0.0.1:8822/cocos-js/cc.9d1bf.js:1:466846)
+    at jw (http://127.0.0.1:8822/cocos-js/cc.9d1bf.js:1:466990)
+    at e.sync (http://127.0.0.1:8822/cocos-js/cc.9d1bf.js:1:303889)
+    at Uw (http://127.0.0.1:8822/cocos-js/cc.9d1bf.js:1:463780)
+    at e._flow (http://127.0.0.1:8822/cocos-js/cc.9d1bf.js:1:304126)
+    at e.async (http://127.0.0.1:8822/cocos-js/cc.9d1bf.js:1:304063)
+    at e.loadAny (http://127.0.0.1:8822/cocos-js/cc.9d1bf.js:1:470233)
+    at e.load (http://127.0.0.1:8822/cocos-js/cc.9d1bf.js:1:443256)
+    at http://127.0.0.1:8822/assets/main/index.9f3a1.js:384:1166 @ http://127.0.0.1:8822/assets/main/index.9f3a1.js:383
+[    7388ms] [ERROR] 图片加载失败: level/htsm_start/spriteFrame/spriteFrame/spriteFrame/spriteFrame 0_icon @ http://127.0.0.1:8822/assets/main/index.9f3a1.js:913
+[    7388ms] [ERROR] 资源加载失败: Error: Bundle 0_icon doesn't contain level/slhz_end/spriteFrame/spriteFrame/spriteFrame/spriteFrame
+    at u (http://127.0.0.1:8822/cocos-js/cc.9d1bf.js:1:465996)
+    at n (http://127.0.0.1:8822/cocos-js/cc.9d1bf.js:1:466846)
+    at jw (http://127.0.0.1:8822/cocos-js/cc.9d1bf.js:1:466990)
+    at e.sync (http://127.0.0.1:8822/cocos-js/cc.9d1bf.js:1:303889)
+    at Uw (http://127.0.0.1:8822/cocos-js/cc.9d1bf.js:1:463780)
+    at e._flow (http://127.0.0.1:8822/cocos-js/cc.9d1bf.js:1:304126)
+    at e.async (http://127.0.0.1:8822/cocos-js/cc.9d1bf.js:1:304063)
+    at e.loadAny (http://127.0.0.1:8822/cocos-js/cc.9d1bf.js:1:470233)
+    at e.load (http://127.0.0.1:8822/cocos-js/cc.9d1bf.js:1:443256)
+    at http://127.0.0.1:8822/assets/main/index.9f3a1.js:384:1166 @ http://127.0.0.1:8822/assets/main/index.9f3a1.js:383
+[    7389ms] [ERROR] 图片加载失败: level/slhz_end/spriteFrame/spriteFrame/spriteFrame/spriteFrame 0_icon @ http://127.0.0.1:8822/assets/main/index.9f3a1.js:913
+[    7389ms] [ERROR] 资源加载失败: Error: Bundle 0_icon doesn't contain level/zjhy_start/spriteFrame/spriteFrame/spriteFrame/spriteFrame
+    at u (http://127.0.0.1:8822/cocos-js/cc.9d1bf.js:1:465996)
+    at n (http://127.0.0.1:8822/cocos-js/cc.9d1bf.js:1:466846)
+    at jw (http://127.0.0.1:8822/cocos-js/cc.9d1bf.js:1:466990)
+    at e.sync (http://127.0.0.1:8822/cocos-js/cc.9d1bf.js:1:303889)
+    at Uw (http://127.0.0.1:8822/cocos-js/cc.9d1bf.js:1:463780)
+    at e._flow (http://127.0.0.1:8822/cocos-js/cc.9d1bf.js:1:304126)
+    at e.async (http://127.0.0.1:8822/cocos-js/cc.9d1bf.js:1:304063)
+    at e.loadAny (http://127.0.0.1:8822/cocos-js/cc.9d1bf.js:1:470233)
+    at e.load (http://127.0.0.1:8822/cocos-js/cc.9d1bf.js:1:443256)
+    at http://127.0.0.1:8822/assets/main/index.9f3a1.js:384:1166 @ http://127.0.0.1:8822/assets/main/index.9f3a1.js:383
+[    7389ms] [ERROR] 图片加载失败: level/zjhy_start/spriteFrame/spriteFrame/spriteFrame/spriteFrame 0_icon @ http://127.0.0.1:8822/assets/main/index.9f3a1.js:913
+[    9162ms] [ERROR] Failed to load resource: the server responded with a status of 404 (File not found) @ http://127.0.0.1:8822/remote/mainBundle/import/16/16df592b-ea67-4418-84e3-f289520c9491@f9941.f24a1.json:0
+[    9163ms] [ERROR] download failed: remote/mainBundle/import/16/16df592b-ea67-4418-84e3-f289520c9491@f9941.f24a1.json, status: 404(no response) Error: download failed: remote/mainBundle/import/16/16df592b-ea67-4418-84e3-f289520c9491@f9941.f24a1.json, status: 404(no response)
+    at XS.r.onload (http://127.0.0.1:8822/cocos-js/cc.9d1bf.js:1:445934) @ http://127.0.0.1:8822/cocos-js/cc.9d1bf.js:0
+[    9163ms] [ERROR] download failed: remote/mainBundle/import/16/16df592b-ea67-4418-84e3-f289520c9491@f9941.f24a1.json, status: 404(no response) Error: download failed: remote/mainBundle/import/16/16df592b-ea67-4418-84e3-f289520c9491@f9941.f24a1.json, status: 404(no response)
+    at XS.r.onload (http://127.0.0.1:8822/cocos-js/cc.9d1bf.js:1:445934) @ http://127.0.0.1:8822/cocos-js/cc.9d1bf.js:0
+[    9169ms] [ERROR] 图片加载失败 :  common/img4/icon_jiantou_4 t @ http://127.0.0.1:8822/assets/main/index.9f3a1.js:383
+[    9170ms] [ERROR] 图片加载失败 :  common/img4/icon_jiantou_4 t @ http://127.0.0.1:8822/assets/main/index.9f3a1.js:383
