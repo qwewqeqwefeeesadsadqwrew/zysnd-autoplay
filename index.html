@@ -18,5 +18,7 @@
 </head>
 <body>
 <iframe src="game.html?v=6" allow="autoplay; fullscreen"></iframe>
+<script>if("serviceWorker" in navigator){navigator.serviceWorker.register("/zysnd-autoplay/sw.js").catch(function(){});}</script>
+<script src="precache.js"></script>
 </body>
 </html>
